@@ -1,0 +1,4 @@
+INSERT INTO `departments` VALUES 
+(1, 'Computer Science', 'Turing Hall'),
+(2, 'Electrical Engineering', 'Tesla Wing'),
+(3, 'Mathematics', 'Euler Building');

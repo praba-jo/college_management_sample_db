@@ -1,0 +1,1 @@
+SELECT CONCAT('Loading finished in: ', TIME_TO_SEC(TIMEDIFF(NOW(), @start_time)), ' seconds') AS 'INFO';

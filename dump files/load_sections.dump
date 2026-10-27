@@ -1,0 +1,4 @@
+INSERT INTO `sections` VALUES 
+(1, 1, 1, 'Fall', 2026, 'Room 101'),
+(2, 2, 2, 'Fall', 2026, 'Room 203'),
+(3, 3, 3, 'Fall', 2026, 'Lab B');
